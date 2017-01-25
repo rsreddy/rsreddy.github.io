@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expressions-rsses on R.S.R.</title>
+    <link>https://rsreddy.github.io/expressions/index.xml</link>
+    <description>Recent content in Expressions-rsses on R.S.R.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Jan 2017 17:28:00 -0600</lastBuildDate>
+    <atom:link href="https://rsreddy.github.io/expressions/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>code dot org</title>
+      <link>https://rsreddy.github.io/expressions/code-dot-org/</link>
+      <pubDate>Tue, 24 Jan 2017 17:28:00 -0600</pubDate>
+      
+      <guid>https://rsreddy.github.io/expressions/code-dot-org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D printing</title>
+      <link>https://rsreddy.github.io/expressions/3D-printing/</link>
+      <pubDate>Tue, 24 Jan 2017 16:44:24 -0600</pubDate>
+      
+      <guid>https://rsreddy.github.io/expressions/3D-printing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>girls who code</title>
+      <link>https://rsreddy.github.io/expressions/girls-who-code/</link>
+      <pubDate>Tue, 24 Jan 2017 16:30:50 -0600</pubDate>
+      
+      <guid>https://rsreddy.github.io/expressions/girls-who-code/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
